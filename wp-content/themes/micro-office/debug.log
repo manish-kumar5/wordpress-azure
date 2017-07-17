@@ -1,0 +1,117 @@
+03.04.2017 09:47:06 Dispatch action: import_tpl
+03.04.2017 09:47:06 Import Theme Options
+03.04.2017 09:47:06 Load data from the file http://microoffice.themerex.net/demo/default/templates_options.txt successful
+03.04.2017 09:47:06 AJAX handler finished - send results to client: {"action":"import_tpl","error":"","start_from_id":0,"result":100}
+03.04.2017 09:47:07 Dispatch action: import_widgets
+03.04.2017 09:47:07 Import Widgets
+03.04.2017 09:47:08 Load data from the file http://microoffice.themerex.net/demo/default/widgets.txt successful
+03.04.2017 09:47:08 AJAX handler finished - send results to client: {"action":"import_widgets","error":"","start_from_id":0,"result":100}
+03.04.2017 09:47:09 Dispatch action: import_responsive_poll
+03.04.2017 09:47:09 Import dump file: "responsive_poll.txt"
+03.04.2017 09:47:09 Load data from the file http://microoffice.themerex.net/demo/default/responsive_poll.txt successful
+03.04.2017 09:47:09 Process table "weblator_polls"
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 100%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Imported 100%. Elapsed time 0 sec. of 108 sec.
+03.04.2017 09:47:09 Process table "weblator_poll_options"
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 11%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 22%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 33%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 44%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 56%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 67%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 78%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 89%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 100%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Imported 100%. Elapsed time 0 sec. of 108 sec.
+03.04.2017 09:47:09 Process table "weblator_poll_votes"
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 2%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 4%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 5%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 7%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 9%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 11%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 13%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 14%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 16%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 18%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 20%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 21%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 23%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 25%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 27%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 29%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 30%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 32%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 34%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 36%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 38%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 39%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 41%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 43%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 45%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 46%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 48%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 50%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 52%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 54%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 55%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 57%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 59%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 61%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 63%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 64%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 66%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 68%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 70%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 71%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 73%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 75%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 77%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 79%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 80%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 82%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 84%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 86%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 88%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 89%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 91%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 93%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 95%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 96%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 98%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Record (ID=) is imported. Progress: 100%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:09 Imported 100%. Elapsed time 0 sec. of 108 sec.
+03.04.2017 09:47:09 AJAX handler finished - send results to client: {"action":"import_responsive_poll","error":"","start_from_id":0,"result":100}
+03.04.2017 09:47:10 Dispatch action: import_content_timeline
+03.04.2017 09:47:10 Import dump file: "content_timeline.txt"
+03.04.2017 09:47:11 Load data from the file http://microoffice.themerex.net/demo/default/content_timeline.txt successful
+03.04.2017 09:47:11 Process table "ctimelines"
+03.04.2017 09:47:11 Record (ID=) is imported. Progress: 100%. Time: 1 sec. from 108 sec.
+03.04.2017 09:47:11 Imported 100%. Elapsed time 1 sec. of 108 sec.
+03.04.2017 09:47:11 AJAX handler finished - send results to client: {"action":"import_content_timeline","error":"","start_from_id":0,"result":100}
+03.04.2017 09:47:12 Dispatch action: import_wp_pro_quiz
+03.04.2017 09:47:12 Import dump file: "wp_pro_quiz.txt"
+03.04.2017 09:47:12 Load data from the file http://microoffice.themerex.net/demo/default/wp_pro_quiz.txt successful
+03.04.2017 09:47:12 Process table "wp_pro_quiz_master"
+03.04.2017 09:47:12 Record (ID=) is imported. Progress: 25%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:12 Record (ID=) is imported. Progress: 50%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:12 Record (ID=) is imported. Progress: 75%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:12 Record (ID=) is imported. Progress: 100%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:12 Imported 100%. Elapsed time 0 sec. of 108 sec.
+03.04.2017 09:47:12 Process table "wp_pro_quiz_question"
+03.04.2017 09:47:12 Record (ID=) is imported. Progress: 8%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:12 Record (ID=) is imported. Progress: 17%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:12 Record (ID=) is imported. Progress: 25%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:12 Record (ID=) is imported. Progress: 33%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:12 Record (ID=) is imported. Progress: 42%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:12 Record (ID=) is imported. Progress: 50%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:12 Record (ID=) is imported. Progress: 58%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:12 Record (ID=) is imported. Progress: 67%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:12 Record (ID=) is imported. Progress: 75%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:12 Record (ID=) is imported. Progress: 83%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:12 Record (ID=) is imported. Progress: 92%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:12 Record (ID=) is imported. Progress: 100%. Time: 0 sec. from 108 sec.
+03.04.2017 09:47:12 Imported 100%. Elapsed time 0 sec. of 108 sec.
+03.04.2017 09:47:12 AJAX handler finished - send results to client: {"action":"import_wp_pro_quiz","error":"","start_from_id":0,"result":100}
+03.04.2017 09:47:13 Dispatch action: import_end
+03.04.2017 09:47:13 AJAX handler finished - send results to client: {"action":"import_end","error":"","start_from_id":0,"result":100}

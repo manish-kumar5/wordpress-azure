@@ -1,0 +1,182 @@
+body.login #login {
+    width: 466px;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    left: 280px;
+    top: 51.5%;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+body.login.login-action-login {
+    background: #2a2f43;
+    background-image: url('../images/bg_login.jpg');
+    background-size: cover;
+    background-position: center;
+}
+body.login #login h1 a{
+	background: url('../images/logo.png') no-repeat center;
+	height: 74px;
+	width: 100%;
+	margin: 0 auto 33px;
+}
+body.login form {
+    border-radius: 3px;
+    padding: 0;
+    margin: 0;
+    position: relative;
+    background-color: transparent;
+    box-shadow: none;
+}
+body.login .login_descr {
+    font-size: 14px;
+    font-weight: 600;
+    text-align: center;
+    color: #aaadb1;
+    font-family: Open Sans, sans-serif;
+    margin-bottom: 45px;
+}
+body.login form .input, 
+body.login input[type=text] {
+    font-size: 16px;
+    line-height: 1.2857em;
+    text-align: center;
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    right: -2px;
+    margin: 0;
+    opacity: 0;
+    outline: none;
+    resize: none;
+    width: calc(100% + 4px);
+    padding: calc(1.532em - 2px) 1.428em;
+    border-radius: 5px;
+    border: 2px solid #fff;
+    border-top-color: #dfdfdf;
+    background: #fff;
+    box-shadow: none;
+    -webkit-appearance: none;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-transition: all ease .3s;
+    -moz-transition: all ease .3s;
+    -ms-transition: all ease .3s;
+    -o-transition: all ease .3s;
+    transition: all ease .3s;
+}
+body.login form .input:-webkit-autofill, 
+body.login form input[type=checkbox]:-webkit-autofill, 
+body.login input[type=text]:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0px 1000px white inset;
+}
+body.login form .input:focus, 
+body.login form input[type=checkbox]:focus, 
+body.login input[type=text]:focus {
+    border-color: #22c9be;
+}
+body.login form .forgetmenot label {
+    font-size: 13px;
+    line-height: 33px;
+}
+body.login form input#rememberme {
+    background: #fff;
+    width: 16px;
+    min-width: 16px;
+    height: 16px;
+    border: 2px solid #e4e6eb;
+    border-radius: 8px;
+    vertical-align: sub;
+    margin-bottom: 0;
+    margin-right: 0
+}
+body.login form .forgetmenot{
+    float: none;
+}
+body.login #login form p.submit {
+    display: block;
+    text-align: center;
+    margin-top: 4px;
+}
+body.login form #wp-submit {
+    border: none;
+    float: none;
+    font-size: 30px;
+    font-weight: 600;
+    width: 263px;
+    height: 74px;
+    padding: 0;
+    margin: auto;
+    margin-bottom: 5px;
+    padding-bottom: 10px;
+    text-transform: lowercase;
+    text-shadow: none !important;
+    box-shadow: none  !important;
+    display: block;
+    background: url('../images/button.png') 100%  center;
+    -webkit-transition: all ease .3s;
+    -moz-transition: all ease .3s;
+    -ms-transition: all ease .3s;
+    -o-transition: all ease .3s;
+    transition: all ease .3s;
+}
+body.login form #wp-submit:hover {
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+body.login .login form .forgetmenot {
+    float: none;
+}
+body.login .login #backtoblog a, 
+body.login .login #nav a {
+    text-decoration: none;
+    color: #9b9ead;
+    font-size: 13px;
+}
+
+body.login p:not(.forgetmenot) label {
+    position: relative;
+    display: block;
+    text-align: center;
+    font-size: 16px;
+    line-height: calc(4.2em - 2px);
+    margin-bottom: 21px;
+    border-radius: 5px;
+    border: 2px solid #fff;
+    border-top-color: #dfdfdf;
+    background-color: #fff;
+    font-family: Open Sans;
+    color: #aaadb1;
+}
+body.login #user_login:focus, body.login #user_pass:focus,
+body.login #user_login.not_empty, body.login #user_pass.not_empty {
+    opacity: 1;
+}
+body.login #nav, body.login #backtoblog{
+    padding: 0;
+}
+body.login form .forgetmenot label,
+body.login #nav,
+body.login #backtoblog a, 
+body.login #nav a {
+    color: #aaadb1;
+}
+
+@media (max-width: 1135px) {
+	body.login #login {
+		left: 50%;
+		top: 51.5%;
+		-webkit-transform: translateY(-50%) translateX(-50%);
+		-moz-transform: translateY(-50%) translateX(-50%);
+		transform: translateY(-50%) translateX(-50%);
+	}
+}
+@media (max-width: 480px) {
+	body.login #login {
+		width: 90%;
+	}
+}

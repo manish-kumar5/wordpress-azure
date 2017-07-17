@@ -1,0 +1,10 @@
+Version 1.2
+	Menu styles are updated
+	Sidebar issues are fixed
+	Visual Composer updated
+
+Version 1.1
+	Responsive updated
+
+Version 1.0
+	Release Micro Office
